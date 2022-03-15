@@ -1,0 +1,10 @@
+C:\Users\snowt\source\repos\Mcdo\Mcdo\bin\Debug\Mcdo.exe.config
+C:\Users\snowt\source\repos\Mcdo\Mcdo\bin\Debug\Mcdo.exe
+C:\Users\snowt\source\repos\Mcdo\Mcdo\bin\Debug\Mcdo.pdb
+C:\Users\snowt\source\repos\Mcdo\Mcdo\obj\Debug\Mcdo.csprojAssemblyReference.cache
+C:\Users\snowt\source\repos\Mcdo\Mcdo\obj\Debug\Mcdo.Form1.resources
+C:\Users\snowt\source\repos\Mcdo\Mcdo\obj\Debug\Mcdo.Properties.Resources.resources
+C:\Users\snowt\source\repos\Mcdo\Mcdo\obj\Debug\Mcdo.csproj.GenerateResource.cache
+C:\Users\snowt\source\repos\Mcdo\Mcdo\obj\Debug\Mcdo.csproj.CoreCompileInputs.cache
+C:\Users\snowt\source\repos\Mcdo\Mcdo\obj\Debug\Mcdo.exe
+C:\Users\snowt\source\repos\Mcdo\Mcdo\obj\Debug\Mcdo.pdb
